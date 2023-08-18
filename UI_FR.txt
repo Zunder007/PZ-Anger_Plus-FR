@@ -1,0 +1,10 @@
+UI_FR = {
+	UI_trait_Calm = "Calme",
+	UI_trait_CalmDesc = "A un bon contrôle sur ses émotions.<br>(La colère s'accumule 30% plus lentement)",
+	UI_trait_Berserk = "Fou furieux",
+	UI_trait_BerserkDesc = "Ils ont pris tout ce que vous aviez!<br>(Tuer des zombies vous met encore plus en colère)",
+	UI_trait_Irritable = "Irritable",
+	UI_trait_IrritableDesc = "Même les choses insignifiantes peuvent vous contrarier.<br>(La colère s'accumule 30% plus vite)",
+	UI_trait_Peace = "En paix",
+	UI_trait_PeaceDesc = "Votre esprit est libre de colère et de rage.<br>(Vous ne pouvez pas vous mettre en colère)",
+}
